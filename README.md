@@ -1,4 +1,4 @@
 챗GPT와 파이썬을 이용해서 만든 AI 앱입니다. <br>
 기능으로는 사용자가 입력한 음악 추천, <br> 추천한 음악들을 CSV 파일로 저장 후 저장한 CSV 파일을 읽어 음원을 다운,<br> 다운로드한 음원들의 이미지를 AI가 생성,<br> 생성한 이미지에 가수와 제목 삽입,<br> 이 이미지로 음원 파일로 합쳐 동영상 파일로 생성 또는 개인의 영상에 다운받은 음원들을 입혀 동영상 파일로 생성,<br> 
 html 페이지로 AI 앱의 결과물 생성 등이 있습니다. <br>
-중간 결과물과 단계 별로 진행한 내역들이 velog에 있습니다. https://velog.io/@hyun3138/series/%EC%B1%97GPT-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-AI-%EC%A7%81%EC%9B%90-%EB%A7%8C%EB%93%A4%EA%B8%B0
+중간 결과물과 단계 별로 진행한 내역들이 velog에 있습니다. <br> https://velog.io/@hyun3138/series/%EC%B1%97GPT-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-AI-%EC%A7%81%EC%9B%90-%EB%A7%8C%EB%93%A4%EA%B8%B0
