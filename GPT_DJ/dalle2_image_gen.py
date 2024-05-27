@@ -2,7 +2,7 @@ import openai
 from pathlib import Path
 from base64 import b64decode
 
-openai.api_key='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'
+openai.api_key='Your API KEY'
 
 # 노래 제목과 아티스트를 입력받아 해당 노래에 대해 정보를 생성하는 함수
 def dalle2_prompt_generator(song_title, artist):
