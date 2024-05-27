@@ -3,7 +3,7 @@ from diffusers import StableDiffusionPipeline
 import torch
 import re
 
-openai.api_key='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'
+openai.api_key='Your API KEY'
 
 def text_to_image_prompt_generator(song_title, artist):
     response=openai.ChatCompletion.create(
